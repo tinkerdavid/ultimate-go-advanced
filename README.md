@@ -1,3 +1,8 @@
+Check out [ArdanLabs](https://github.com/ardanlabs/gotraining) for more info.
+
+
+
+
 # ultimate-go-advanced
 Notes on Ardan Labs Ultimate Go Advanced course
 
